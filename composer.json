@@ -1,0 +1,11 @@
+{
+    "name": "athron98/ihas-docs",
+    "description": "iHAS API Documentation Template",
+    "authors": [
+        {
+            "name": "Gilang Albathin Nurhabibi",
+            "email": "athron.poster@gmail.com"
+        }
+    ],
+    "require": {}
+}
